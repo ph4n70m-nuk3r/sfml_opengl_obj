@@ -1,6 +1,9 @@
 Simple project to load object (OBJ) data into an SFML application.
 ==================================================================
 
+# Screenshot
+![Screenshot](app_screenshot.png)
+
 # Libraries:  
 `OpenGL` (libgl1-mesa-dev ...) `GLEW` (libglew-dev) `SFML` (libsfml-dev)  
 
