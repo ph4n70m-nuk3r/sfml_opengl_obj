@@ -1,0 +1,216 @@
+i == 0
+j == 0
+k == 0
+obj_verts[ (obj_elems[ 0 ]) ].x  ==  1
+obj_verts[ (obj_elems[ 0 ]) ].y  ==  1
+obj_verts[ (obj_elems[ 0 ]) ].z  ==  -1
+i == 0
+j == 1
+k == 3
+obj_verts[ (obj_elems[ 1 ]) ].x  ==  -1
+obj_verts[ (obj_elems[ 1 ]) ].y  ==  -1
+obj_verts[ (obj_elems[ 1 ]) ].z  ==  -1
+i == 0
+j == 2
+k == 6
+obj_verts[ (obj_elems[ 2 ]) ].x  ==  -1
+obj_verts[ (obj_elems[ 2 ]) ].y  ==  1
+obj_verts[ (obj_elems[ 2 ]) ].z  ==  -1
+i == 1
+j == 3
+k == 9
+obj_verts[ (obj_elems[ 3 ]) ].x  ==  -1
+obj_verts[ (obj_elems[ 3 ]) ].y  ==  1
+obj_verts[ (obj_elems[ 3 ]) ].z  ==  1
+i == 1
+j == 4
+k == 12
+obj_verts[ (obj_elems[ 4 ]) ].x  ==  0.999999
+obj_verts[ (obj_elems[ 4 ]) ].y  ==  -1
+obj_verts[ (obj_elems[ 4 ]) ].z  ==  1
+i == 1
+j == 5
+k == 15
+obj_verts[ (obj_elems[ 5 ]) ].x  ==  1
+obj_verts[ (obj_elems[ 5 ]) ].y  ==  0.999999
+obj_verts[ (obj_elems[ 5 ]) ].z  ==  1
+i == 2
+j == 6
+k == 18
+obj_verts[ (obj_elems[ 6 ]) ].x  ==  1
+obj_verts[ (obj_elems[ 6 ]) ].y  ==  0.999999
+obj_verts[ (obj_elems[ 6 ]) ].z  ==  1
+i == 2
+j == 7
+k == 21
+obj_verts[ (obj_elems[ 7 ]) ].x  ==  1
+obj_verts[ (obj_elems[ 7 ]) ].y  ==  -1
+obj_verts[ (obj_elems[ 7 ]) ].z  ==  -1
+i == 2
+j == 8
+k == 24
+obj_verts[ (obj_elems[ 8 ]) ].x  ==  1
+obj_verts[ (obj_elems[ 8 ]) ].y  ==  1
+obj_verts[ (obj_elems[ 8 ]) ].z  ==  -1
+i == 3
+j == 9
+k == 27
+obj_verts[ (obj_elems[ 9 ]) ].x  ==  0.999999
+obj_verts[ (obj_elems[ 9 ]) ].y  ==  -1
+obj_verts[ (obj_elems[ 9 ]) ].z  ==  1
+i == 3
+j == 10
+k == 30
+obj_verts[ (obj_elems[ 10 ]) ].x  ==  -1
+obj_verts[ (obj_elems[ 10 ]) ].y  ==  -1
+obj_verts[ (obj_elems[ 10 ]) ].z  ==  -1
+i == 3
+j == 11
+k == 33
+obj_verts[ (obj_elems[ 11 ]) ].x  ==  1
+obj_verts[ (obj_elems[ 11 ]) ].y  ==  -1
+obj_verts[ (obj_elems[ 11 ]) ].z  ==  -1
+i == 4
+j == 12
+k == 36
+obj_verts[ (obj_elems[ 12 ]) ].x  ==  -1
+obj_verts[ (obj_elems[ 12 ]) ].y  ==  -1
+obj_verts[ (obj_elems[ 12 ]) ].z  ==  -1
+i == 4
+j == 13
+k == 39
+obj_verts[ (obj_elems[ 13 ]) ].x  ==  -1
+obj_verts[ (obj_elems[ 13 ]) ].y  ==  1
+obj_verts[ (obj_elems[ 13 ]) ].z  ==  1
+i == 4
+j == 14
+k == 42
+obj_verts[ (obj_elems[ 14 ]) ].x  ==  -1
+obj_verts[ (obj_elems[ 14 ]) ].y  ==  1
+obj_verts[ (obj_elems[ 14 ]) ].z  ==  -1
+i == 5
+j == 15
+k == 45
+obj_verts[ (obj_elems[ 15 ]) ].x  ==  1
+obj_verts[ (obj_elems[ 15 ]) ].y  ==  1
+obj_verts[ (obj_elems[ 15 ]) ].z  ==  -1
+i == 5
+j == 16
+k == 48
+obj_verts[ (obj_elems[ 16 ]) ].x  ==  -1
+obj_verts[ (obj_elems[ 16 ]) ].y  ==  1
+obj_verts[ (obj_elems[ 16 ]) ].z  ==  1
+i == 5
+j == 17
+k == 51
+obj_verts[ (obj_elems[ 17 ]) ].x  ==  1
+obj_verts[ (obj_elems[ 17 ]) ].y  ==  0.999999
+obj_verts[ (obj_elems[ 17 ]) ].z  ==  1
+i == 6
+j == 18
+k == 54
+obj_verts[ (obj_elems[ 18 ]) ].x  ==  1
+obj_verts[ (obj_elems[ 18 ]) ].y  ==  1
+obj_verts[ (obj_elems[ 18 ]) ].z  ==  -1
+i == 6
+j == 19
+k == 57
+obj_verts[ (obj_elems[ 19 ]) ].x  ==  1
+obj_verts[ (obj_elems[ 19 ]) ].y  ==  -1
+obj_verts[ (obj_elems[ 19 ]) ].z  ==  -1
+i == 6
+j == 20
+k == 60
+obj_verts[ (obj_elems[ 20 ]) ].x  ==  -1
+obj_verts[ (obj_elems[ 20 ]) ].y  ==  -1
+obj_verts[ (obj_elems[ 20 ]) ].z  ==  -1
+i == 7
+j == 21
+k == 63
+obj_verts[ (obj_elems[ 21 ]) ].x  ==  -1
+obj_verts[ (obj_elems[ 21 ]) ].y  ==  1
+obj_verts[ (obj_elems[ 21 ]) ].z  ==  1
+i == 7
+j == 22
+k == 66
+obj_verts[ (obj_elems[ 22 ]) ].x  ==  -1
+obj_verts[ (obj_elems[ 22 ]) ].y  ==  -1
+obj_verts[ (obj_elems[ 22 ]) ].z  ==  1
+i == 7
+j == 23
+k == 69
+obj_verts[ (obj_elems[ 23 ]) ].x  ==  0.999999
+obj_verts[ (obj_elems[ 23 ]) ].y  ==  -1
+obj_verts[ (obj_elems[ 23 ]) ].z  ==  1
+i == 8
+j == 24
+k == 72
+obj_verts[ (obj_elems[ 24 ]) ].x  ==  1
+obj_verts[ (obj_elems[ 24 ]) ].y  ==  0.999999
+obj_verts[ (obj_elems[ 24 ]) ].z  ==  1
+i == 8
+j == 25
+k == 75
+obj_verts[ (obj_elems[ 25 ]) ].x  ==  0.999999
+obj_verts[ (obj_elems[ 25 ]) ].y  ==  -1
+obj_verts[ (obj_elems[ 25 ]) ].z  ==  1
+i == 8
+j == 26
+k == 78
+obj_verts[ (obj_elems[ 26 ]) ].x  ==  1
+obj_verts[ (obj_elems[ 26 ]) ].y  ==  -1
+obj_verts[ (obj_elems[ 26 ]) ].z  ==  -1
+i == 9
+j == 27
+k == 81
+obj_verts[ (obj_elems[ 27 ]) ].x  ==  0.999999
+obj_verts[ (obj_elems[ 27 ]) ].y  ==  -1
+obj_verts[ (obj_elems[ 27 ]) ].z  ==  1
+i == 9
+j == 28
+k == 84
+obj_verts[ (obj_elems[ 28 ]) ].x  ==  -1
+obj_verts[ (obj_elems[ 28 ]) ].y  ==  -1
+obj_verts[ (obj_elems[ 28 ]) ].z  ==  1
+i == 9
+j == 29
+k == 87
+obj_verts[ (obj_elems[ 29 ]) ].x  ==  -1
+obj_verts[ (obj_elems[ 29 ]) ].y  ==  -1
+obj_verts[ (obj_elems[ 29 ]) ].z  ==  -1
+i == 10
+j == 30
+k == 90
+obj_verts[ (obj_elems[ 30 ]) ].x  ==  -1
+obj_verts[ (obj_elems[ 30 ]) ].y  ==  -1
+obj_verts[ (obj_elems[ 30 ]) ].z  ==  -1
+i == 10
+j == 31
+k == 93
+obj_verts[ (obj_elems[ 31 ]) ].x  ==  -1
+obj_verts[ (obj_elems[ 31 ]) ].y  ==  -1
+obj_verts[ (obj_elems[ 31 ]) ].z  ==  1
+i == 10
+j == 32
+k == 96
+obj_verts[ (obj_elems[ 32 ]) ].x  ==  -1
+obj_verts[ (obj_elems[ 32 ]) ].y  ==  1
+obj_verts[ (obj_elems[ 32 ]) ].z  ==  1
+i == 11
+j == 33
+k == 99
+obj_verts[ (obj_elems[ 33 ]) ].x  ==  1
+obj_verts[ (obj_elems[ 33 ]) ].y  ==  1
+obj_verts[ (obj_elems[ 33 ]) ].z  ==  -1
+i == 11
+j == 34
+k == 102
+obj_verts[ (obj_elems[ 34 ]) ].x  ==  -1
+obj_verts[ (obj_elems[ 34 ]) ].y  ==  1
+obj_verts[ (obj_elems[ 34 ]) ].z  ==  -1
+i == 11
+j == 35
+k == 105
+obj_verts[ (obj_elems[ 35 ]) ].x  ==  -1
+obj_verts[ (obj_elems[ 35 ]) ].y  ==  1
+obj_verts[ (obj_elems[ 35 ]) ].z  ==  1
