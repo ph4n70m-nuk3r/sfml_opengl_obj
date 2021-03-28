@@ -1,17 +1,17 @@
-Simple project to load object (OBJ) data into an SFML application.
-==================================================================
+Simple project to load object (OBJ) data into an SFML application.  
+==================================================================  
 
-# Screenshot
-![Screenshot](app_screenshot.png)
+# Screenshot of Final Application  
+![screenshot](app_screenshot.png)  
 
-# Libraries:  
+# Required Shared Libraries:  
 `OpenGL` (libgl1-mesa-dev ...) `GLEW` (libglew-dev) `SFML` (libsfml-dev)  
 
 # Toolchain  
 `g++ 9.3.0`  
 
 # Build  
-`make`  
+![screenshot](build_screenshot.png)  
 
 # Additional info  
 
@@ -22,3 +22,5 @@ Simple project to load object (OBJ) data into an SFML application.
 ## SFML  
 - https://www.sfml-dev.org/  
 
+## CMake  
+- https://cmake.org/cmake/help/latest  
